@@ -35,7 +35,7 @@
   - 전송 프로토콜 (TCP, UDP, QUIC)
   - IXP
 
-[1주차 학습 내용 보기](/docs/week01/week01.md)
+[1주차 학습 내용 보기](NetworkStudy/docs/week01/week01.md)
 
 
 ### 2주차: 보안과 프라이버시
